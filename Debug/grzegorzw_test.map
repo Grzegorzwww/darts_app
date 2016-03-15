@@ -1,0 +1,990 @@
+Archive member included because of file (symbol)
+
+C:\nxp\workspace\CMSIS_CORE_LPC17xx\Debug\libCMSIS_CORE_LPC17xx.a(system_LPC17xx.o)
+                              ./src/cr_startup_lpc175x_6x.o (SystemInit)
+c:/nxp/lpcxpresso_7.3.0_186/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(__weak__main.o)
+                              ./src/cr_startup_lpc175x_6x.o (__main)
+c:/nxp/lpcxpresso_7.3.0_186/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m\libcr_eabihelpers.a(division_64.o)
+                              C:\nxp\workspace\CMSIS_CORE_LPC17xx\Debug\libCMSIS_CORE_LPC17xx.a(system_LPC17xx.o) (__aeabi_uldivmod)
+c:/nxp/lpcxpresso_7.3.0_186/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m\libcr_eabihelpers.a(division_idiv0.o)
+                              c:/nxp/lpcxpresso_7.3.0_186/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m\libcr_eabihelpers.a(division_64.o) (__aeabi_idiv0)
+
+Allocating common symbols
+Common symbol       size              file
+
+adc_AD2             0x2               ./src/grzegorzw_test.o
+buff_counterAD0     0x1               ./src/grzegorzw_test.o
+buff_counterAD1     0x1               ./src/grzegorzw_test.o
+adc_AD0Buff         0x40              ./src/grzegorzw_test.o
+adc_AD1             0x2               ./src/grzegorzw_test.o
+adc_AD0             0x2               ./src/grzegorzw_test.o
+buff_counterAD2     0x1               ./src/grzegorzw_test.o
+SPI_ConfigStruct    0x18              ./src/lpc17xx_spi.o
+Tx_Buf              0xa               ./src/grzegorzw_test.o
+var                 0x4               ./src/grzegorzw_test.o
+msTicks             0x4               ./src/grzegorzw_test.o
+adc_AD1Buff         0x40              ./src/grzegorzw_test.o
+Rx_Buf              0xa               ./src/grzegorzw_test.o
+adc_AD2Buff         0x40              ./src/grzegorzw_test.o
+
+Discarded input sections
+
+ .group         0x00000000        0x8 ./src/cr_startup_lpc175x_6x.o
+ .text          0x00000000        0x0 ./src/cr_startup_lpc175x_6x.o
+ .data          0x00000000        0x0 ./src/cr_startup_lpc175x_6x.o
+ .bss           0x00000000        0x0 ./src/cr_startup_lpc175x_6x.o
+ .group         0x00000000        0x8 ./src/crp.o
+ .group         0x00000000        0x8 ./src/crp.o
+ .text          0x00000000        0x0 ./src/crp.o
+ .data          0x00000000        0x0 ./src/crp.o
+ .bss           0x00000000        0x0 ./src/crp.o
+ .debug_macro   0x00000000      0x85c ./src/crp.o
+ .group         0x00000000        0x8 ./src/grzegorzw_test.o
+ .group         0x00000000        0x8 ./src/grzegorzw_test.o
+ .group         0x00000000        0x8 ./src/grzegorzw_test.o
+ .group         0x00000000        0x8 ./src/grzegorzw_test.o
+ .group         0x00000000        0x8 ./src/grzegorzw_test.o
+ .group         0x00000000        0x8 ./src/grzegorzw_test.o
+ .group         0x00000000        0x8 ./src/grzegorzw_test.o
+ .group         0x00000000        0x8 ./src/grzegorzw_test.o
+ .group         0x00000000        0x8 ./src/grzegorzw_test.o
+ .group         0x00000000        0x8 ./src/grzegorzw_test.o
+ .group         0x00000000        0x8 ./src/grzegorzw_test.o
+ .group         0x00000000        0x8 ./src/grzegorzw_test.o
+ .group         0x00000000        0x8 ./src/grzegorzw_test.o
+ .group         0x00000000        0x8 ./src/grzegorzw_test.o
+ .group         0x00000000        0x8 ./src/grzegorzw_test.o
+ .group         0x00000000        0x8 ./src/grzegorzw_test.o
+ .text          0x00000000        0x0 ./src/grzegorzw_test.o
+ .data          0x00000000        0x0 ./src/grzegorzw_test.o
+ .bss           0x00000000        0x0 ./src/grzegorzw_test.o
+ .text.GETFromBufforAdc
+                0x00000000       0x20 ./src/grzegorzw_test.o
+ .text.SPI      0x00000000       0x98 ./src/grzegorzw_test.o
+ .text.SPI_TXRX
+                0x00000000       0x54 ./src/grzegorzw_test.o
+ .text.ADXL_INIT
+                0x00000000       0x30 ./src/grzegorzw_test.o
+ .bss.i.5538    0x00000000        0x4 ./src/grzegorzw_test.o
+ .debug_macro   0x00000000      0x85c ./src/grzegorzw_test.o
+ .group         0x00000000        0x8 ./src/lpc17xx_adc.o
+ .group         0x00000000        0x8 ./src/lpc17xx_adc.o
+ .group         0x00000000        0x8 ./src/lpc17xx_adc.o
+ .group         0x00000000        0x8 ./src/lpc17xx_adc.o
+ .group         0x00000000        0x8 ./src/lpc17xx_adc.o
+ .group         0x00000000        0x8 ./src/lpc17xx_adc.o
+ .group         0x00000000        0x8 ./src/lpc17xx_adc.o
+ .group         0x00000000        0x8 ./src/lpc17xx_adc.o
+ .group         0x00000000        0x8 ./src/lpc17xx_adc.o
+ .group         0x00000000        0x8 ./src/lpc17xx_adc.o
+ .group         0x00000000        0x8 ./src/lpc17xx_adc.o
+ .group         0x00000000        0x8 ./src/lpc17xx_adc.o
+ .group         0x00000000        0x8 ./src/lpc17xx_adc.o
+ .group         0x00000000        0x8 ./src/lpc17xx_adc.o
+ .text          0x00000000        0x0 ./src/lpc17xx_adc.o
+ .data          0x00000000        0x0 ./src/lpc17xx_adc.o
+ .bss           0x00000000        0x0 ./src/lpc17xx_adc.o
+ .text.ADC_DeInit
+                0x00000000       0x30 ./src/lpc17xx_adc.o
+ .text.ADC_GetData
+                0x00000000       0x10 ./src/lpc17xx_adc.o
+ .text.ADC_StartCmd
+                0x00000000       0x3c ./src/lpc17xx_adc.o
+ .text.ADC_PowerdownCmd
+                0x00000000       0x30 ./src/lpc17xx_adc.o
+ .text.ADC_EdgeStartConfig
+                0x00000000       0x3c ./src/lpc17xx_adc.o
+ .text.ADC_IntConfig
+                0x00000000       0x44 ./src/lpc17xx_adc.o
+ .text.ADC_ChannelGetStatus
+                0x00000000       0x4c ./src/lpc17xx_adc.o
+ .text.ADC_GlobalGetData
+                0x00000000       0x24 ./src/lpc17xx_adc.o
+ .text.ADC_GlobalGetStatus
+                0x00000000       0x44 ./src/lpc17xx_adc.o
+ .debug_macro   0x00000000      0x85c ./src/lpc17xx_adc.o
+ .debug_macro   0x00000000       0x1c ./src/lpc17xx_adc.o
+ .debug_macro   0x00000000       0x3a ./src/lpc17xx_adc.o
+ .debug_macro   0x00000000       0x10 ./src/lpc17xx_adc.o
+ .debug_macro   0x00000000      0x122 ./src/lpc17xx_adc.o
+ .debug_macro   0x00000000      0x5b9 ./src/lpc17xx_adc.o
+ .debug_macro   0x00000000       0x2d ./src/lpc17xx_adc.o
+ .debug_macro   0x00000000      0xbb1 ./src/lpc17xx_adc.o
+ .debug_macro   0x00000000      0x2c7 ./src/lpc17xx_adc.o
+ .debug_macro   0x00000000       0x63 ./src/lpc17xx_adc.o
+ .debug_macro   0x00000000      0x143 ./src/lpc17xx_adc.o
+ .group         0x00000000        0x8 ./src/lpc17xx_clkpwr.o
+ .group         0x00000000        0x8 ./src/lpc17xx_clkpwr.o
+ .group         0x00000000        0x8 ./src/lpc17xx_clkpwr.o
+ .group         0x00000000        0x8 ./src/lpc17xx_clkpwr.o
+ .group         0x00000000        0x8 ./src/lpc17xx_clkpwr.o
+ .group         0x00000000        0x8 ./src/lpc17xx_clkpwr.o
+ .group         0x00000000        0x8 ./src/lpc17xx_clkpwr.o
+ .group         0x00000000        0x8 ./src/lpc17xx_clkpwr.o
+ .group         0x00000000        0x8 ./src/lpc17xx_clkpwr.o
+ .group         0x00000000        0x8 ./src/lpc17xx_clkpwr.o
+ .group         0x00000000        0x8 ./src/lpc17xx_clkpwr.o
+ .text          0x00000000        0x0 ./src/lpc17xx_clkpwr.o
+ .data          0x00000000        0x0 ./src/lpc17xx_clkpwr.o
+ .bss           0x00000000        0x0 ./src/lpc17xx_clkpwr.o
+ .text.CLKPWR_SetPCLKDiv
+                0x00000000       0x60 ./src/lpc17xx_clkpwr.o
+ .text.CLKPWR_Sleep
+                0x00000000       0x10 ./src/lpc17xx_clkpwr.o
+ .text.CLKPWR_DeepSleep
+                0x00000000       0x1c ./src/lpc17xx_clkpwr.o
+ .text.CLKPWR_PowerDown
+                0x00000000       0x1c ./src/lpc17xx_clkpwr.o
+ .text.CLKPWR_DeepPowerDown
+                0x00000000       0x1c ./src/lpc17xx_clkpwr.o
+ .debug_macro   0x00000000      0x85c ./src/lpc17xx_clkpwr.o
+ .debug_macro   0x00000000       0x3a ./src/lpc17xx_clkpwr.o
+ .debug_macro   0x00000000       0x10 ./src/lpc17xx_clkpwr.o
+ .debug_macro   0x00000000      0x122 ./src/lpc17xx_clkpwr.o
+ .debug_macro   0x00000000      0x5b9 ./src/lpc17xx_clkpwr.o
+ .debug_macro   0x00000000       0x2d ./src/lpc17xx_clkpwr.o
+ .debug_macro   0x00000000      0xbb1 ./src/lpc17xx_clkpwr.o
+ .debug_macro   0x00000000       0x63 ./src/lpc17xx_clkpwr.o
+ .group         0x00000000        0x8 ./src/lpc17xx_gpio.o
+ .group         0x00000000        0x8 ./src/lpc17xx_gpio.o
+ .group         0x00000000        0x8 ./src/lpc17xx_gpio.o
+ .group         0x00000000        0x8 ./src/lpc17xx_gpio.o
+ .group         0x00000000        0x8 ./src/lpc17xx_gpio.o
+ .group         0x00000000        0x8 ./src/lpc17xx_gpio.o
+ .group         0x00000000        0x8 ./src/lpc17xx_gpio.o
+ .group         0x00000000        0x8 ./src/lpc17xx_gpio.o
+ .group         0x00000000        0x8 ./src/lpc17xx_gpio.o
+ .group         0x00000000        0x8 ./src/lpc17xx_gpio.o
+ .group         0x00000000        0x8 ./src/lpc17xx_gpio.o
+ .group         0x00000000        0x8 ./src/lpc17xx_gpio.o
+ .text          0x00000000        0x0 ./src/lpc17xx_gpio.o
+ .data          0x00000000        0x0 ./src/lpc17xx_gpio.o
+ .bss           0x00000000        0x0 ./src/lpc17xx_gpio.o
+ .text.GPIO_GetPointer
+                0x00000000       0x3c ./src/lpc17xx_gpio.o
+ .text.FIO_HalfWordGetPointer
+                0x00000000       0x3c ./src/lpc17xx_gpio.o
+ .text.FIO_ByteGetPointer
+                0x00000000       0x3c ./src/lpc17xx_gpio.o
+ .text.GPIO_SetDir
+                0x00000000       0x20 ./src/lpc17xx_gpio.o
+ .text.GPIO_SetValue
+                0x00000000       0x10 ./src/lpc17xx_gpio.o
+ .text.GPIO_ClearValue
+                0x00000000       0x10 ./src/lpc17xx_gpio.o
+ .text.GPIO_ReadValue
+                0x00000000       0x10 ./src/lpc17xx_gpio.o
+ .text.GPIO_IntCmd
+                0x00000000       0x38 ./src/lpc17xx_gpio.o
+ .text.GPIO_GetIntStatus
+                0x00000000       0x58 ./src/lpc17xx_gpio.o
+ .text.GPIO_ClearInt
+                0x00000000       0x18 ./src/lpc17xx_gpio.o
+ .text.FIO_SetDir
+                0x00000000        0x8 ./src/lpc17xx_gpio.o
+ .text.FIO_SetValue
+                0x00000000        0x8 ./src/lpc17xx_gpio.o
+ .text.FIO_ClearValue
+                0x00000000        0x8 ./src/lpc17xx_gpio.o
+ .text.FIO_ReadValue
+                0x00000000        0x8 ./src/lpc17xx_gpio.o
+ .text.FIO_IntCmd
+                0x00000000        0x8 ./src/lpc17xx_gpio.o
+ .text.FIO_GetIntStatus
+                0x00000000        0x8 ./src/lpc17xx_gpio.o
+ .text.FIO_ClearInt
+                0x00000000        0x8 ./src/lpc17xx_gpio.o
+ .text.FIO_SetMask
+                0x00000000       0x20 ./src/lpc17xx_gpio.o
+ .text.FIO_HalfWordSetDir
+                0x00000000       0x40 ./src/lpc17xx_gpio.o
+ .text.FIO_HalfWordSetMask
+                0x00000000       0x40 ./src/lpc17xx_gpio.o
+ .text.FIO_HalfWordSetValue
+                0x00000000       0x18 ./src/lpc17xx_gpio.o
+ .text.FIO_HalfWordClearValue
+                0x00000000       0x18 ./src/lpc17xx_gpio.o
+ .text.FIO_HalfWordReadValue
+                0x00000000       0x1c ./src/lpc17xx_gpio.o
+ .text.FIO_ByteSetDir
+                0x00000000       0x2c ./src/lpc17xx_gpio.o
+ .text.FIO_ByteSetMask
+                0x00000000       0x30 ./src/lpc17xx_gpio.o
+ .text.FIO_ByteSetValue
+                0x00000000       0x18 ./src/lpc17xx_gpio.o
+ .text.FIO_ByteClearValue
+                0x00000000       0x18 ./src/lpc17xx_gpio.o
+ .text.FIO_ByteReadValue
+                0x00000000       0x20 ./src/lpc17xx_gpio.o
+ .debug_info    0x00000000      0xe57 ./src/lpc17xx_gpio.o
+ .debug_abbrev  0x00000000      0x228 ./src/lpc17xx_gpio.o
+ .debug_loc     0x00000000      0xc56 ./src/lpc17xx_gpio.o
+ .debug_aranges
+                0x00000000       0xf8 ./src/lpc17xx_gpio.o
+ .debug_ranges  0x00000000       0xe8 ./src/lpc17xx_gpio.o
+ .debug_macro   0x00000000       0x99 ./src/lpc17xx_gpio.o
+ .debug_macro   0x00000000      0x85c ./src/lpc17xx_gpio.o
+ .debug_macro   0x00000000       0x1c ./src/lpc17xx_gpio.o
+ .debug_macro   0x00000000       0x3a ./src/lpc17xx_gpio.o
+ .debug_macro   0x00000000       0x10 ./src/lpc17xx_gpio.o
+ .debug_macro   0x00000000      0x122 ./src/lpc17xx_gpio.o
+ .debug_macro   0x00000000      0x5b9 ./src/lpc17xx_gpio.o
+ .debug_macro   0x00000000       0x2d ./src/lpc17xx_gpio.o
+ .debug_macro   0x00000000      0xbb1 ./src/lpc17xx_gpio.o
+ .debug_macro   0x00000000      0x2c7 ./src/lpc17xx_gpio.o
+ .debug_macro   0x00000000       0x63 ./src/lpc17xx_gpio.o
+ .debug_macro   0x00000000       0x40 ./src/lpc17xx_gpio.o
+ .debug_macro   0x00000000       0xb3 ./src/lpc17xx_gpio.o
+ .debug_line    0x00000000      0x443 ./src/lpc17xx_gpio.o
+ .debug_str     0x00000000     0x9db8 ./src/lpc17xx_gpio.o
+ .comment       0x00000000       0x71 ./src/lpc17xx_gpio.o
+ .ARM.attributes
+                0x00000000       0x33 ./src/lpc17xx_gpio.o
+ .debug_frame   0x00000000      0x2b0 ./src/lpc17xx_gpio.o
+ .group         0x00000000        0x8 ./src/lpc17xx_libcfg_default.o
+ .group         0x00000000        0x8 ./src/lpc17xx_libcfg_default.o
+ .group         0x00000000        0x8 ./src/lpc17xx_libcfg_default.o
+ .group         0x00000000        0x8 ./src/lpc17xx_libcfg_default.o
+ .group         0x00000000        0x8 ./src/lpc17xx_libcfg_default.o
+ .group         0x00000000        0x8 ./src/lpc17xx_libcfg_default.o
+ .text          0x00000000        0x0 ./src/lpc17xx_libcfg_default.o
+ .data          0x00000000        0x0 ./src/lpc17xx_libcfg_default.o
+ .bss           0x00000000        0x0 ./src/lpc17xx_libcfg_default.o
+ .debug_macro   0x00000000      0x85c ./src/lpc17xx_libcfg_default.o
+ .debug_macro   0x00000000       0x10 ./src/lpc17xx_libcfg_default.o
+ .debug_macro   0x00000000      0x122 ./src/lpc17xx_libcfg_default.o
+ .debug_macro   0x00000000      0x5b9 ./src/lpc17xx_libcfg_default.o
+ .group         0x00000000        0x8 ./src/lpc17xx_nvic.o
+ .group         0x00000000        0x8 ./src/lpc17xx_nvic.o
+ .group         0x00000000        0x8 ./src/lpc17xx_nvic.o
+ .group         0x00000000        0x8 ./src/lpc17xx_nvic.o
+ .group         0x00000000        0x8 ./src/lpc17xx_nvic.o
+ .group         0x00000000        0x8 ./src/lpc17xx_nvic.o
+ .group         0x00000000        0x8 ./src/lpc17xx_nvic.o
+ .group         0x00000000        0x8 ./src/lpc17xx_nvic.o
+ .group         0x00000000        0x8 ./src/lpc17xx_nvic.o
+ .group         0x00000000        0x8 ./src/lpc17xx_nvic.o
+ .text          0x00000000        0x0 ./src/lpc17xx_nvic.o
+ .data          0x00000000        0x0 ./src/lpc17xx_nvic.o
+ .bss           0x00000000        0x0 ./src/lpc17xx_nvic.o
+ .debug_macro   0x00000000      0x85c ./src/lpc17xx_nvic.o
+ .debug_macro   0x00000000       0x1c ./src/lpc17xx_nvic.o
+ .debug_macro   0x00000000       0x3a ./src/lpc17xx_nvic.o
+ .debug_macro   0x00000000       0x10 ./src/lpc17xx_nvic.o
+ .debug_macro   0x00000000      0x122 ./src/lpc17xx_nvic.o
+ .debug_macro   0x00000000      0x5b9 ./src/lpc17xx_nvic.o
+ .debug_macro   0x00000000       0x2d ./src/lpc17xx_nvic.o
+ .debug_macro   0x00000000      0xbb1 ./src/lpc17xx_nvic.o
+ .debug_macro   0x00000000      0x2c7 ./src/lpc17xx_nvic.o
+ .debug_macro   0x00000000       0x63 ./src/lpc17xx_nvic.o
+ .group         0x00000000        0x8 ./src/lpc17xx_pinsel.o
+ .group         0x00000000        0x8 ./src/lpc17xx_pinsel.o
+ .group         0x00000000        0x8 ./src/lpc17xx_pinsel.o
+ .group         0x00000000        0x8 ./src/lpc17xx_pinsel.o
+ .group         0x00000000        0x8 ./src/lpc17xx_pinsel.o
+ .group         0x00000000        0x8 ./src/lpc17xx_pinsel.o
+ .group         0x00000000        0x8 ./src/lpc17xx_pinsel.o
+ .group         0x00000000        0x8 ./src/lpc17xx_pinsel.o
+ .group         0x00000000        0x8 ./src/lpc17xx_pinsel.o
+ .group         0x00000000        0x8 ./src/lpc17xx_pinsel.o
+ .group         0x00000000        0x8 ./src/lpc17xx_pinsel.o
+ .text          0x00000000        0x0 ./src/lpc17xx_pinsel.o
+ .data          0x00000000        0x0 ./src/lpc17xx_pinsel.o
+ .bss           0x00000000        0x0 ./src/lpc17xx_pinsel.o
+ .text.PINSEL_ConfigTraceFunc
+                0x00000000       0x24 ./src/lpc17xx_pinsel.o
+ .text.PINSEL_SetI2C0Pins
+                0x00000000       0x14 ./src/lpc17xx_pinsel.o
+ .debug_macro   0x00000000      0x85c ./src/lpc17xx_pinsel.o
+ .debug_macro   0x00000000       0x1c ./src/lpc17xx_pinsel.o
+ .debug_macro   0x00000000       0x3a ./src/lpc17xx_pinsel.o
+ .debug_macro   0x00000000       0x10 ./src/lpc17xx_pinsel.o
+ .debug_macro   0x00000000      0x122 ./src/lpc17xx_pinsel.o
+ .debug_macro   0x00000000      0x5b9 ./src/lpc17xx_pinsel.o
+ .debug_macro   0x00000000       0x2d ./src/lpc17xx_pinsel.o
+ .debug_macro   0x00000000      0xbb1 ./src/lpc17xx_pinsel.o
+ .debug_macro   0x00000000      0x2c7 ./src/lpc17xx_pinsel.o
+ .debug_macro   0x00000000       0x63 ./src/lpc17xx_pinsel.o
+ .debug_macro   0x00000000      0x143 ./src/lpc17xx_pinsel.o
+ .group         0x00000000        0x8 ./src/lpc17xx_spi.o
+ .group         0x00000000        0x8 ./src/lpc17xx_spi.o
+ .group         0x00000000        0x8 ./src/lpc17xx_spi.o
+ .group         0x00000000        0x8 ./src/lpc17xx_spi.o
+ .group         0x00000000        0x8 ./src/lpc17xx_spi.o
+ .group         0x00000000        0x8 ./src/lpc17xx_spi.o
+ .group         0x00000000        0x8 ./src/lpc17xx_spi.o
+ .group         0x00000000        0x8 ./src/lpc17xx_spi.o
+ .group         0x00000000        0x8 ./src/lpc17xx_spi.o
+ .group         0x00000000        0x8 ./src/lpc17xx_spi.o
+ .group         0x00000000        0x8 ./src/lpc17xx_spi.o
+ .group         0x00000000        0x8 ./src/lpc17xx_spi.o
+ .group         0x00000000        0x8 ./src/lpc17xx_spi.o
+ .group         0x00000000        0x8 ./src/lpc17xx_spi.o
+ .text          0x00000000        0x0 ./src/lpc17xx_spi.o
+ .data          0x00000000        0x0 ./src/lpc17xx_spi.o
+ .bss           0x00000000        0x0 ./src/lpc17xx_spi.o
+ .text.SPI_SetClock
+                0x00000000       0x40 ./src/lpc17xx_spi.o
+ .text.SPI_DeInit
+                0x00000000       0x2c ./src/lpc17xx_spi.o
+ .text.SPI_Init
+                0x00000000       0x7c ./src/lpc17xx_spi.o
+ .text.SPI_ConfigStructInit
+                0x00000000       0x1c ./src/lpc17xx_spi.o
+ .text.SPI_Inicializacion
+                0x00000000       0xa4 ./src/lpc17xx_spi.o
+ .text.SPI_SendData
+                0x00000000       0x24 ./src/lpc17xx_spi.o
+ .text.SPI_ReceiveData
+                0x00000000       0x24 ./src/lpc17xx_spi.o
+ .text.SPI_IntCmd
+                0x00000000       0x48 ./src/lpc17xx_spi.o
+ .text.SPI_IntHandler
+                0x00000000       0xd4 ./src/lpc17xx_spi.o
+ .text.SPI_ReadWrite
+                0x00000000      0x138 ./src/lpc17xx_spi.o
+ .text.SPI_GetIntStatus
+                0x00000000       0x24 ./src/lpc17xx_spi.o
+ .text.SPI_ClearIntPending
+                0x00000000       0x24 ./src/lpc17xx_spi.o
+ .text.SPI_GetStatus
+                0x00000000       0x24 ./src/lpc17xx_spi.o
+ .text.SPI_CheckStatus
+                0x00000000       0x34 ./src/lpc17xx_spi.o
+ .text.SPI_StdIntHandler
+                0x00000000       0x10 ./src/lpc17xx_spi.o
+ .bss.spidat    0x00000000        0xc ./src/lpc17xx_spi.o
+ .rodata.str1.4
+                0x00000000       0x18 ./src/lpc17xx_spi.o
+ .debug_info    0x00000000      0xcb4 ./src/lpc17xx_spi.o
+ .debug_abbrev  0x00000000      0x2ef ./src/lpc17xx_spi.o
+ .debug_loc     0x00000000      0x5c0 ./src/lpc17xx_spi.o
+ .debug_aranges
+                0x00000000       0x90 ./src/lpc17xx_spi.o
+ .debug_ranges  0x00000000       0x80 ./src/lpc17xx_spi.o
+ .debug_macro   0x00000000       0xbf ./src/lpc17xx_spi.o
+ .debug_macro   0x00000000      0x85c ./src/lpc17xx_spi.o
+ .debug_macro   0x00000000       0x1c ./src/lpc17xx_spi.o
+ .debug_macro   0x00000000       0x3a ./src/lpc17xx_spi.o
+ .debug_macro   0x00000000       0x10 ./src/lpc17xx_spi.o
+ .debug_macro   0x00000000      0x122 ./src/lpc17xx_spi.o
+ .debug_macro   0x00000000      0x5b9 ./src/lpc17xx_spi.o
+ .debug_macro   0x00000000       0x2d ./src/lpc17xx_spi.o
+ .debug_macro   0x00000000      0xbb1 ./src/lpc17xx_spi.o
+ .debug_macro   0x00000000      0x2c7 ./src/lpc17xx_spi.o
+ .debug_macro   0x00000000       0x63 ./src/lpc17xx_spi.o
+ .debug_macro   0x00000000      0x143 ./src/lpc17xx_spi.o
+ .debug_macro   0x00000000      0x1af ./src/lpc17xx_spi.o
+ .debug_macro   0x00000000      0x2fe ./src/lpc17xx_spi.o
+ .debug_macro   0x00000000       0xb3 ./src/lpc17xx_spi.o
+ .debug_line    0x00000000      0x3f9 ./src/lpc17xx_spi.o
+ .debug_str     0x00000000     0xbc2b ./src/lpc17xx_spi.o
+ .comment       0x00000000       0x71 ./src/lpc17xx_spi.o
+ .ARM.attributes
+                0x00000000       0x33 ./src/lpc17xx_spi.o
+ .debug_frame   0x00000000      0x19c ./src/lpc17xx_spi.o
+ COMMON         0x00000000       0x18 ./src/lpc17xx_spi.o
+ .group         0x00000000        0x8 ./src/lpc17xx_uart.o
+ .group         0x00000000        0x8 ./src/lpc17xx_uart.o
+ .group         0x00000000        0x8 ./src/lpc17xx_uart.o
+ .group         0x00000000        0x8 ./src/lpc17xx_uart.o
+ .group         0x00000000        0x8 ./src/lpc17xx_uart.o
+ .group         0x00000000        0x8 ./src/lpc17xx_uart.o
+ .group         0x00000000        0x8 ./src/lpc17xx_uart.o
+ .group         0x00000000        0x8 ./src/lpc17xx_uart.o
+ .group         0x00000000        0x8 ./src/lpc17xx_uart.o
+ .group         0x00000000        0x8 ./src/lpc17xx_uart.o
+ .group         0x00000000        0x8 ./src/lpc17xx_uart.o
+ .group         0x00000000        0x8 ./src/lpc17xx_uart.o
+ .group         0x00000000        0x8 ./src/lpc17xx_uart.o
+ .group         0x00000000        0x8 ./src/lpc17xx_uart.o
+ .text          0x00000000        0x0 ./src/lpc17xx_uart.o
+ .data          0x00000000        0x0 ./src/lpc17xx_uart.o
+ .bss           0x00000000        0x0 ./src/lpc17xx_uart.o
+ .text.UART_ConfigStructInit
+                0x00000000       0x14 ./src/lpc17xx_uart.o
+ .text.UART_ReceiveByte
+                0x00000000       0x4c ./src/lpc17xx_uart.o
+ .text.UART_Send
+                0x00000000       0x88 ./src/lpc17xx_uart.o
+ .text.UART_Receive
+                0x00000000       0x6c ./src/lpc17xx_uart.o
+ .text.UART_ForceBreak
+                0x00000000       0x54 ./src/lpc17xx_uart.o
+ .text.UART_GetLineStatus
+                0x00000000       0x4c ./src/lpc17xx_uart.o
+ .text.UART_GetIntId
+                0x00000000       0x40 ./src/lpc17xx_uart.o
+ .text.UART_CheckBusy
+                0x00000000       0x10 ./src/lpc17xx_uart.o
+ .text.UART_ABCmd
+                0x00000000       0xc8 ./src/lpc17xx_uart.o
+ .text.UART_ABClearIntPending
+                0x00000000       0x50 ./src/lpc17xx_uart.o
+ .text.UART_DeInit
+                0x00000000       0x4c ./src/lpc17xx_uart.o
+ .debug_macro   0x00000000      0x85c ./src/lpc17xx_uart.o
+ .debug_macro   0x00000000       0x1c ./src/lpc17xx_uart.o
+ .debug_macro   0x00000000       0x3a ./src/lpc17xx_uart.o
+ .debug_macro   0x00000000       0x10 ./src/lpc17xx_uart.o
+ .debug_macro   0x00000000      0x122 ./src/lpc17xx_uart.o
+ .debug_macro   0x00000000      0x5b9 ./src/lpc17xx_uart.o
+ .debug_macro   0x00000000       0x2d ./src/lpc17xx_uart.o
+ .debug_macro   0x00000000      0xbb1 ./src/lpc17xx_uart.o
+ .debug_macro   0x00000000      0x2c7 ./src/lpc17xx_uart.o
+ .debug_macro   0x00000000       0x63 ./src/lpc17xx_uart.o
+ .debug_macro   0x00000000      0x143 ./src/lpc17xx_uart.o
+ .debug_macro   0x00000000      0x2fe ./src/lpc17xx_uart.o
+ .debug_macro   0x00000000       0xb3 ./src/lpc17xx_uart.o
+ .group         0x00000000        0x8 C:\nxp\workspace\CMSIS_CORE_LPC17xx\Debug\libCMSIS_CORE_LPC17xx.a(system_LPC17xx.o)
+ .group         0x00000000        0x8 C:\nxp\workspace\CMSIS_CORE_LPC17xx\Debug\libCMSIS_CORE_LPC17xx.a(system_LPC17xx.o)
+ .group         0x00000000        0x8 C:\nxp\workspace\CMSIS_CORE_LPC17xx\Debug\libCMSIS_CORE_LPC17xx.a(system_LPC17xx.o)
+ .group         0x00000000        0x8 C:\nxp\workspace\CMSIS_CORE_LPC17xx\Debug\libCMSIS_CORE_LPC17xx.a(system_LPC17xx.o)
+ .group         0x00000000        0x8 C:\nxp\workspace\CMSIS_CORE_LPC17xx\Debug\libCMSIS_CORE_LPC17xx.a(system_LPC17xx.o)
+ .group         0x00000000        0x8 C:\nxp\workspace\CMSIS_CORE_LPC17xx\Debug\libCMSIS_CORE_LPC17xx.a(system_LPC17xx.o)
+ .group         0x00000000        0x8 C:\nxp\workspace\CMSIS_CORE_LPC17xx\Debug\libCMSIS_CORE_LPC17xx.a(system_LPC17xx.o)
+ .group         0x00000000        0x8 C:\nxp\workspace\CMSIS_CORE_LPC17xx\Debug\libCMSIS_CORE_LPC17xx.a(system_LPC17xx.o)
+ .group         0x00000000        0x8 C:\nxp\workspace\CMSIS_CORE_LPC17xx\Debug\libCMSIS_CORE_LPC17xx.a(system_LPC17xx.o)
+ .text          0x00000000        0x0 C:\nxp\workspace\CMSIS_CORE_LPC17xx\Debug\libCMSIS_CORE_LPC17xx.a(system_LPC17xx.o)
+ .data          0x00000000        0x0 C:\nxp\workspace\CMSIS_CORE_LPC17xx\Debug\libCMSIS_CORE_LPC17xx.a(system_LPC17xx.o)
+ .bss           0x00000000        0x0 C:\nxp\workspace\CMSIS_CORE_LPC17xx\Debug\libCMSIS_CORE_LPC17xx.a(system_LPC17xx.o)
+ .text.SystemCoreClockUpdate
+                0x00000000       0xb0 C:\nxp\workspace\CMSIS_CORE_LPC17xx\Debug\libCMSIS_CORE_LPC17xx.a(system_LPC17xx.o)
+ .debug_macro   0x00000000       0x10 C:\nxp\workspace\CMSIS_CORE_LPC17xx\Debug\libCMSIS_CORE_LPC17xx.a(system_LPC17xx.o)
+ .debug_macro   0x00000000      0x122 C:\nxp\workspace\CMSIS_CORE_LPC17xx\Debug\libCMSIS_CORE_LPC17xx.a(system_LPC17xx.o)
+ .debug_macro   0x00000000      0x5b9 C:\nxp\workspace\CMSIS_CORE_LPC17xx\Debug\libCMSIS_CORE_LPC17xx.a(system_LPC17xx.o)
+ .debug_macro   0x00000000       0x1c C:\nxp\workspace\CMSIS_CORE_LPC17xx\Debug\libCMSIS_CORE_LPC17xx.a(system_LPC17xx.o)
+ .debug_macro   0x00000000       0x3a C:\nxp\workspace\CMSIS_CORE_LPC17xx\Debug\libCMSIS_CORE_LPC17xx.a(system_LPC17xx.o)
+ .debug_macro   0x00000000       0x2d C:\nxp\workspace\CMSIS_CORE_LPC17xx\Debug\libCMSIS_CORE_LPC17xx.a(system_LPC17xx.o)
+ .debug_macro   0x00000000      0xbb1 C:\nxp\workspace\CMSIS_CORE_LPC17xx\Debug\libCMSIS_CORE_LPC17xx.a(system_LPC17xx.o)
+ .debug_macro   0x00000000      0x2c7 C:\nxp\workspace\CMSIS_CORE_LPC17xx\Debug\libCMSIS_CORE_LPC17xx.a(system_LPC17xx.o)
+ .text          0x00000000        0x0 c:/nxp/lpcxpresso_7.3.0_186/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(__weak__main.o)
+ .data          0x00000000        0x0 c:/nxp/lpcxpresso_7.3.0_186/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(__weak__main.o)
+ .bss           0x00000000        0x0 c:/nxp/lpcxpresso_7.3.0_186/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(__weak__main.o)
+ .text          0x00000000        0x0 c:/nxp/lpcxpresso_7.3.0_186/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m\libcr_eabihelpers.a(division_64.o)
+ .data          0x00000000        0x0 c:/nxp/lpcxpresso_7.3.0_186/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m\libcr_eabihelpers.a(division_64.o)
+ .bss           0x00000000        0x0 c:/nxp/lpcxpresso_7.3.0_186/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m\libcr_eabihelpers.a(division_64.o)
+ .text.__aeabi_division_ldivmod
+                0x00000000       0x26 c:/nxp/lpcxpresso_7.3.0_186/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m\libcr_eabihelpers.a(division_64.o)
+ .text.__aeabi_division_uldivmod
+                0x00000000      0x188 c:/nxp/lpcxpresso_7.3.0_186/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m\libcr_eabihelpers.a(division_64.o)
+ .ARM.attributes
+                0x00000000       0x21 c:/nxp/lpcxpresso_7.3.0_186/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m\libcr_eabihelpers.a(division_64.o)
+ .text          0x00000000        0x0 c:/nxp/lpcxpresso_7.3.0_186/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m\libcr_eabihelpers.a(division_idiv0.o)
+ .data          0x00000000        0x0 c:/nxp/lpcxpresso_7.3.0_186/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m\libcr_eabihelpers.a(division_idiv0.o)
+ .bss           0x00000000        0x0 c:/nxp/lpcxpresso_7.3.0_186/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m\libcr_eabihelpers.a(division_idiv0.o)
+ .text.__aeabi_division_idiv0
+                0x00000000        0x2 c:/nxp/lpcxpresso_7.3.0_186/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m\libcr_eabihelpers.a(division_idiv0.o)
+ .ARM.attributes
+                0x00000000       0x21 c:/nxp/lpcxpresso_7.3.0_186/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m\libcr_eabihelpers.a(division_idiv0.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+MFlash512        0x00000000         0x00080000         xr
+RamLoc32         0x10000000         0x00008000         xrw
+RamAHB32         0x2007c000         0x00008000         xrw
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD ./src/cr_startup_lpc175x_6x.o
+LOAD ./src/crp.o
+LOAD ./src/grzegorzw_test.o
+LOAD ./src/lpc17xx_adc.o
+LOAD ./src/lpc17xx_clkpwr.o
+LOAD ./src/lpc17xx_gpio.o
+LOAD ./src/lpc17xx_libcfg_default.o
+LOAD ./src/lpc17xx_nvic.o
+LOAD ./src/lpc17xx_pinsel.o
+LOAD ./src/lpc17xx_spi.o
+LOAD ./src/lpc17xx_uart.o
+LOAD C:\nxp\workspace\CMSIS_CORE_LPC17xx\Debug\libCMSIS_CORE_LPC17xx.a
+START GROUP
+LOAD c:/nxp/lpcxpresso_7.3.0_186/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a
+LOAD c:/nxp/lpcxpresso_7.3.0_186/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m\libcr_eabihelpers.a
+END GROUP
+                0x00080000                __top_MFlash512 = 0x80000
+                0x10008000                __top_RamLoc32 = 0x10008000
+                0x20084000                __top_RamAHB32 = 0x20084000
+
+.text           0x00000000     0x10e8
+ FILL mask 0xff
+                0x00000000                __vectors_start__ = ABSOLUTE (.)
+ *(.isr_vector)
+ .isr_vector    0x00000000       0xcc ./src/cr_startup_lpc175x_6x.o
+                0x00000000                g_pfnVectors
+                0x000000cc                . = ALIGN (0x4)
+                0x000000cc                __section_table_start = .
+                0x000000cc                __data_section_table = .
+                0x000000cc        0x4 LONG 0x10e8 LOADADDR (.data)
+                0x000000d0        0x4 LONG 0x10000000 ADDR (.data)
+                0x000000d4        0x4 LONG 0x4 SIZEOF (.data)
+                0x000000d8        0x4 LONG 0x10e8 LOADADDR (.data_RAM2)
+                0x000000dc        0x4 LONG 0x2007c000 ADDR (.data_RAM2)
+                0x000000e0        0x4 LONG 0x0 SIZEOF (.data_RAM2)
+                0x000000e4                __data_section_table_end = .
+                0x000000e4                __bss_section_table = .
+                0x000000e4        0x4 LONG 0x10000004 ADDR (.bss)
+                0x000000e8        0x4 LONG 0xf0 SIZEOF (.bss)
+                0x000000ec        0x4 LONG 0x2007c000 ADDR (.bss_RAM2)
+                0x000000f0        0x4 LONG 0x0 SIZEOF (.bss_RAM2)
+                0x000000f4                __bss_section_table_end = .
+                0x000000f4                __section_table_end = .
+ *(.after_vectors*)
+ .after_vectors
+                0x000000f4       0xa4 ./src/cr_startup_lpc175x_6x.o
+                0x000000f4                NMI_Handler
+                0x000000f8                HardFault_Handler
+                0x000000fc                MemManage_Handler
+                0x00000100                BusFault_Handler
+                0x00000104                UsageFault_Handler
+                0x00000108                SVC_Handler
+                0x0000010c                DebugMon_Handler
+                0x00000110                PendSV_Handler
+                0x00000118                USBActivity_IRQHandler
+                0x00000118                I2C1_IRQHandler
+                0x00000118                EINT2_IRQHandler
+                0x00000118                EINT3_IRQHandler
+                0x00000118                CANActivity_IRQHandler
+                0x00000118                TIMER3_IRQHandler
+                0x00000118                UART0_IRQHandler
+                0x00000118                MCPWM_IRQHandler
+                0x00000118                I2C0_IRQHandler
+                0x00000118                IntDefaultHandler
+                0x00000118                PLL0_IRQHandler
+                0x00000118                RIT_IRQHandler
+                0x00000118                PLL1_IRQHandler
+                0x00000118                SSP0_IRQHandler
+                0x00000118                I2S_IRQHandler
+                0x00000118                I2C2_IRQHandler
+                0x00000118                RTC_IRQHandler
+                0x00000118                TIMER0_IRQHandler
+                0x00000118                SPI_IRQHandler
+                0x00000118                UART3_IRQHandler
+                0x00000118                EINT1_IRQHandler
+                0x00000118                TIMER1_IRQHandler
+                0x00000118                UART2_IRQHandler
+                0x00000118                ADC_IRQHandler
+                0x00000118                SSP1_IRQHandler
+                0x00000118                USB_IRQHandler
+                0x00000118                BOD_IRQHandler
+                0x00000118                PWM1_IRQHandler
+                0x00000118                WDT_IRQHandler
+                0x00000118                CAN_IRQHandler
+                0x00000118                QEI_IRQHandler
+                0x00000118                EINT0_IRQHandler
+                0x00000118                TIMER2_IRQHandler
+                0x00000118                DMA_IRQHandler
+                0x00000118                ENET_IRQHandler
+                0x0000011c                data_init
+                0x00000138                bss_init
+                0x0000014c                ResetISR
+                0x000002fc                . = 0x2fc
+ *fill*         0x00000198      0x164 ff
+                0x000002fc                PROVIDE (__CRP_WORD_START__, .)
+ *(.crp)
+ .crp           0x000002fc        0x4 ./src/crp.o
+                0x000002fc                CRP_WORD
+                0x00000300                PROVIDE (__CRP_WORD_END__, .)
+                0x00000001                ASSERT (! ((__CRP_WORD_START__ == __CRP_WORD_END__)), Linker CRP Enabled, but no CRP_WORD provided within application)
+ *(.text*)
+ .text.SysTick_Handler
+                0x00000300       0x10 ./src/grzegorzw_test.o
+                0x00000300                SysTick_Handler
+ .text.Converion
+                0x00000310       0x44 ./src/grzegorzw_test.o
+                0x00000310                Converion
+ .text.ADDToBufforAdc
+                0x00000354       0x24 ./src/grzegorzw_test.o
+                0x00000354                ADDToBufforAdc
+ .text.SORTSamples
+                0x00000378       0x74 ./src/grzegorzw_test.o
+                0x00000378                SORTSamples
+ .text.SIGNALCorrection
+                0x000003ec        0xc ./src/grzegorzw_test.o
+                0x000003ec                SIGNALCorrection
+ .text.UART1_IRQHandler
+                0x000003f8       0x30 ./src/grzegorzw_test.o
+                0x000003f8                UART1_IRQHandler
+ .text.INOUT_Inicializacion
+                0x00000428       0x64 ./src/grzegorzw_test.o
+                0x00000428                INOUT_Inicializacion
+ .text.main     0x0000048c      0x1d0 ./src/grzegorzw_test.o
+                0x0000048c                main
+ .text.ADC_Init
+                0x0000065c       0x54 ./src/lpc17xx_adc.o
+                0x0000065c                ADC_Init
+ .text.ADC_BurstCmd
+                0x000006b0       0x30 ./src/lpc17xx_adc.o
+                0x000006b0                ADC_BurstCmd
+ .text.ADC_ChannelCmd
+                0x000006e0       0x44 ./src/lpc17xx_adc.o
+                0x000006e0                ADC_ChannelCmd
+ .text.ADC_Initialization
+                0x00000724       0x78 ./src/lpc17xx_adc.o
+                0x00000724                ADC_Initialization
+ .text.ADC_ChannelGetData
+                0x0000079c       0x2c ./src/lpc17xx_adc.o
+                0x0000079c                ADC_ChannelGetData
+ .text.CLKPWR_GetPCLKSEL
+                0x000007c8       0x24 ./src/lpc17xx_clkpwr.o
+                0x000007c8                CLKPWR_GetPCLKSEL
+ .text.CLKPWR_GetPCLK
+                0x000007ec       0x28 ./src/lpc17xx_clkpwr.o
+                0x000007ec                CLKPWR_GetPCLK
+ .text.CLKPWR_ConfigPPWR
+                0x00000814       0x34 ./src/lpc17xx_clkpwr.o
+                0x00000814                CLKPWR_ConfigPPWR
+ .text.check_failed
+                0x00000848        0x4 ./src/lpc17xx_libcfg_default.o
+                0x00000848                check_failed
+ .text.NVIC_DeInit
+                0x0000084c       0x34 ./src/lpc17xx_nvic.o
+                0x0000084c                NVIC_DeInit
+ .text.NVIC_SCBDeInit
+                0x00000880       0x40 ./src/lpc17xx_nvic.o
+                0x00000880                NVIC_SCBDeInit
+ .text.NVIC_SetVTOR
+                0x000008c0       0x14 ./src/lpc17xx_nvic.o
+                0x000008c0                NVIC_SetVTOR
+ .text.PINSEL_SetPinFunc
+                0x000008d4       0x38 ./src/lpc17xx_pinsel.o
+                0x000008d4                PINSEL_SetPinFunc
+ .text.PINSEL_SetResistorMode
+                0x0000090c       0x34 ./src/lpc17xx_pinsel.o
+                0x0000090c                PINSEL_SetResistorMode
+ .text.PINSEL_SetOpenDrainMode
+                0x00000940       0x30 ./src/lpc17xx_pinsel.o
+                0x00000940                PINSEL_SetOpenDrainMode
+ .text.PINSEL_ConfigPin
+                0x00000970       0x24 ./src/lpc17xx_pinsel.o
+                0x00000970                PINSEL_ConfigPin
+ .text.uart_set_divisors
+                0x00000994      0x164 ./src/lpc17xx_uart.o
+ .text.UART_Init
+                0x00000af8      0x178 ./src/lpc17xx_uart.o
+                0x00000af8                UART_Init
+ .text.UART_SendByte
+                0x00000c70       0x48 ./src/lpc17xx_uart.o
+                0x00000c70                UART_SendByte
+ .text.UART_IntConfig
+                0x00000cb8       0xf8 ./src/lpc17xx_uart.o
+                0x00000cb8                UART_IntConfig
+ .text.UART_FIFOConfig
+                0x00000db0       0xcc ./src/lpc17xx_uart.o
+                0x00000db0                UART_FIFOConfig
+ .text.UART_FIFOConfigStructInit
+                0x00000e7c       0x10 ./src/lpc17xx_uart.o
+                0x00000e7c                UART_FIFOConfigStructInit
+ .text.UART_TxCmd
+                0x00000e8c       0x8c ./src/lpc17xx_uart.o
+                0x00000e8c                UART_TxCmd
+ .text.UART1_Inicializacion
+                0x00000f18       0xbc ./src/lpc17xx_uart.o
+                0x00000f18                UART1_Inicializacion
+ .text.SystemInit
+                0x00000fd4       0xe0 C:\nxp\workspace\CMSIS_CORE_LPC17xx\Debug\libCMSIS_CORE_LPC17xx.a(system_LPC17xx.o)
+                0x00000fd4                SystemInit
+ .text.__weak_main
+                0x000010b4        0x4 c:/nxp/lpcxpresso_7.3.0_186/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(__weak__main.o)
+                0x000010b4                __weak_main
+                0x000010b4                __main
+ *(.rodata .rodata.* .constdata .constdata.*)
+ .rodata.str1.4
+                0x000010b8       0x15 ./src/lpc17xx_adc.o
+                                 0x18 (size before relaxing)
+ *fill*         0x000010cd        0x3 
+ .rodata.str1.4
+                0x000010d0       0x18 ./src/lpc17xx_uart.o
+                0x000010e8                . = ALIGN (0x4)
+
+.glue_7         0x000010e8        0x0
+ .glue_7        0x00000000        0x0 linker stubs
+
+.glue_7t        0x000010e8        0x0
+ .glue_7t       0x00000000        0x0 linker stubs
+
+.vfp11_veneer   0x000010e8        0x0
+ .vfp11_veneer  0x00000000        0x0 linker stubs
+
+.v4_bx          0x000010e8        0x0
+ .v4_bx         0x00000000        0x0 linker stubs
+
+.iplt           0x000010e8        0x0
+ .iplt          0x00000000        0x0 ./src/cr_startup_lpc175x_6x.o
+
+.rel.dyn        0x000010e8        0x0
+ .rel.iplt      0x00000000        0x0 ./src/cr_startup_lpc175x_6x.o
+
+.ARM.extab
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+                0x000010e8                __exidx_start = .
+
+.ARM.exidx
+ *(.ARM.exidx* .gnu.linkonce.armexidx.*)
+                0x000010e8                __exidx_end = .
+                0x000010e8                _etext = .
+
+.data_RAM2      0x2007c000        0x0 load address 0x000010e8
+ FILL mask 0xff
+ *(.ramfunc.$RAM2)
+ *(.ramfunc.$RamAHB32)
+ *(.data.$RAM2*)
+ *(.data.$RamAHB32*)
+                0x2007c000                . = ALIGN (0x4)
+
+.uninit_RESERVED
+                0x10000000        0x0
+ *(.bss.$RESERVED*)
+                0x10000000                . = ALIGN (0x4)
+                0x10000000                _end_uninit_RESERVED = .
+
+.data           0x10000000        0x4 load address 0x000010e8
+ FILL mask 0xff
+                0x10000000                _data = .
+ *(vtable)
+ *(.ramfunc*)
+ *(.data*)
+ .data.SystemCoreClock
+                0x10000000        0x4 C:\nxp\workspace\CMSIS_CORE_LPC17xx\Debug\libCMSIS_CORE_LPC17xx.a(system_LPC17xx.o)
+                0x10000000                SystemCoreClock
+                0x10000004                . = ALIGN (0x4)
+                0x10000004                _edata = .
+
+.igot.plt       0x10000004        0x0 load address 0x000010ec
+ .igot.plt      0x00000000        0x0 ./src/cr_startup_lpc175x_6x.o
+
+.bss_RAM2       0x2007c000        0x0
+ *(.bss.$RAM2*)
+ *(.bss.$RamAHB32*)
+                0x2007c000                . = ALIGN (0x4)
+
+.bss            0x10000004       0xf0
+                0x10000004                _bss = .
+ *(.bss*)
+ .bss.tempdata  0x10000004        0x1 ./src/grzegorzw_test.o
+                0x10000004                tempdata
+ *(COMMON)
+ *fill*         0x10000005        0x3 
+ COMMON         0x10000008       0xec ./src/grzegorzw_test.o
+                0x10000008                adc_AD2
+                0x1000000a                buff_counterAD0
+                0x1000000b                buff_counterAD1
+                0x1000000c                adc_AD0Buff
+                0x1000004c                adc_AD1
+                0x1000004e                adc_AD0
+                0x10000050                buff_counterAD2
+                0x10000054                Tx_Buf
+                0x10000060                var
+                0x10000064                msTicks
+                0x10000068                adc_AD1Buff
+                0x100000a8                Rx_Buf
+                0x100000b4                adc_AD2Buff
+                0x100000f4                . = ALIGN (0x4)
+                0x100000f4                _ebss = .
+                0x100000f4                PROVIDE (end, .)
+
+.noinit_RAM2    0x2007c000        0x0
+ *(.noinit.$RAM2*)
+ *(.noinit.$RamAHB32*)
+                0x2007c000                . = ALIGN (0x4)
+
+.noinit         0x100000f4        0x0
+                0x100000f4                _noinit = .
+ *(.noinit*)
+                0x100000f4                . = ALIGN (0x4)
+                0x100000f4                _end_noinit = .
+                0x100000f4                PROVIDE (_pvHeapStart, .)
+                0x10008000                PROVIDE (_vStackTop, (__top_RamLoc32 - 0x0))
+OUTPUT(grzegorzw_test.axf elf32-littlearm)
+
+.debug_info     0x00000000     0x50ac
+ .debug_info    0x00000000      0x287 ./src/cr_startup_lpc175x_6x.o
+ .debug_info    0x00000287       0x3f ./src/crp.o
+ .debug_info    0x000002c6     0x1983 ./src/grzegorzw_test.o
+ .debug_info    0x00001c49      0x9b8 ./src/lpc17xx_adc.o
+ .debug_info    0x00002601      0x655 ./src/lpc17xx_clkpwr.o
+ .debug_info    0x00002c56       0xc3 ./src/lpc17xx_libcfg_default.o
+ .debug_info    0x00002d19      0x3ea ./src/lpc17xx_nvic.o
+ .debug_info    0x00003103      0x47b ./src/lpc17xx_pinsel.o
+ .debug_info    0x0000357e     0x1816 ./src/lpc17xx_uart.o
+ .debug_info    0x00004d94      0x318 C:\nxp\workspace\CMSIS_CORE_LPC17xx\Debug\libCMSIS_CORE_LPC17xx.a(system_LPC17xx.o)
+
+.debug_abbrev   0x00000000     0x104c
+ .debug_abbrev  0x00000000      0x111 ./src/cr_startup_lpc175x_6x.o
+ .debug_abbrev  0x00000111       0x36 ./src/crp.o
+ .debug_abbrev  0x00000147      0x447 ./src/grzegorzw_test.o
+ .debug_abbrev  0x0000058e      0x201 ./src/lpc17xx_adc.o
+ .debug_abbrev  0x0000078f      0x1d4 ./src/lpc17xx_clkpwr.o
+ .debug_abbrev  0x00000963       0x6c ./src/lpc17xx_libcfg_default.o
+ .debug_abbrev  0x000009cf      0x10f ./src/lpc17xx_nvic.o
+ .debug_abbrev  0x00000ade      0x156 ./src/lpc17xx_pinsel.o
+ .debug_abbrev  0x00000c34      0x332 ./src/lpc17xx_uart.o
+ .debug_abbrev  0x00000f66       0xe6 C:\nxp\workspace\CMSIS_CORE_LPC17xx\Debug\libCMSIS_CORE_LPC17xx.a(system_LPC17xx.o)
+
+.debug_loc      0x00000000     0x1df0
+ .debug_loc     0x00000000      0x1d1 ./src/cr_startup_lpc175x_6x.o
+ .debug_loc     0x000001d1      0x6cb ./src/grzegorzw_test.o
+ .debug_loc     0x0000089c      0x4f5 ./src/lpc17xx_adc.o
+ .debug_loc     0x00000d91      0x1a8 ./src/lpc17xx_clkpwr.o
+ .debug_loc     0x00000f39       0x8f ./src/lpc17xx_nvic.o
+ .debug_loc     0x00000fc8      0x1c6 ./src/lpc17xx_pinsel.o
+ .debug_loc     0x0000118e      0xc62 ./src/lpc17xx_uart.o
+
+.debug_aranges  0x00000000      0x360
+ .debug_aranges
+                0x00000000       0x80 ./src/cr_startup_lpc175x_6x.o
+ .debug_aranges
+                0x00000080       0x18 ./src/crp.o
+ .debug_aranges
+                0x00000098       0x78 ./src/grzegorzw_test.o
+ .debug_aranges
+                0x00000110       0x88 ./src/lpc17xx_adc.o
+ .debug_aranges
+                0x00000198       0x58 ./src/lpc17xx_clkpwr.o
+ .debug_aranges
+                0x000001f0       0x20 ./src/lpc17xx_libcfg_default.o
+ .debug_aranges
+                0x00000210       0x30 ./src/lpc17xx_nvic.o
+ .debug_aranges
+                0x00000240       0x48 ./src/lpc17xx_pinsel.o
+ .debug_aranges
+                0x00000288       0xb0 ./src/lpc17xx_uart.o
+ .debug_aranges
+                0x00000338       0x28 C:\nxp\workspace\CMSIS_CORE_LPC17xx\Debug\libCMSIS_CORE_LPC17xx.a(system_LPC17xx.o)
+
+.debug_ranges   0x00000000      0x2d0
+ .debug_ranges  0x00000000       0x70 ./src/cr_startup_lpc175x_6x.o
+ .debug_ranges  0x00000070       0x80 ./src/grzegorzw_test.o
+ .debug_ranges  0x000000f0       0x78 ./src/lpc17xx_adc.o
+ .debug_ranges  0x00000168       0x48 ./src/lpc17xx_clkpwr.o
+ .debug_ranges  0x000001b0       0x10 ./src/lpc17xx_libcfg_default.o
+ .debug_ranges  0x000001c0       0x20 ./src/lpc17xx_nvic.o
+ .debug_ranges  0x000001e0       0x38 ./src/lpc17xx_pinsel.o
+ .debug_ranges  0x00000218       0xa0 ./src/lpc17xx_uart.o
+ .debug_ranges  0x000002b8       0x18 C:\nxp\workspace\CMSIS_CORE_LPC17xx\Debug\libCMSIS_CORE_LPC17xx.a(system_LPC17xx.o)
+
+.debug_macro    0x00000000     0x444d
+ .debug_macro   0x00000000       0x1d ./src/cr_startup_lpc175x_6x.o
+ .debug_macro   0x0000001d      0x85c ./src/cr_startup_lpc175x_6x.o
+ .debug_macro   0x00000879       0x1a ./src/crp.o
+ .debug_macro   0x00000893       0x34 ./src/crp.o
+ .debug_macro   0x000008c7      0x19d ./src/grzegorzw_test.o
+ .debug_macro   0x00000a64       0x1c ./src/grzegorzw_test.o
+ .debug_macro   0x00000a80       0x3a ./src/grzegorzw_test.o
+ .debug_macro   0x00000aba       0x10 ./src/grzegorzw_test.o
+ .debug_macro   0x00000aca      0x122 ./src/grzegorzw_test.o
+ .debug_macro   0x00000bec      0x5b9 ./src/grzegorzw_test.o
+ .debug_macro   0x000011a5       0x2d ./src/grzegorzw_test.o
+ .debug_macro   0x000011d2      0xbb1 ./src/grzegorzw_test.o
+ .debug_macro   0x00001d83      0x2c7 ./src/grzegorzw_test.o
+ .debug_macro   0x0000204a       0x82 ./src/grzegorzw_test.o
+ .debug_macro   0x000020cc       0x63 ./src/grzegorzw_test.o
+ .debug_macro   0x0000212f       0x40 ./src/grzegorzw_test.o
+ .debug_macro   0x0000216f      0x143 ./src/grzegorzw_test.o
+ .debug_macro   0x000022b2      0x33a ./src/grzegorzw_test.o
+ .debug_macro   0x000025ec      0x1af ./src/grzegorzw_test.o
+ .debug_macro   0x0000279b       0xf5 ./src/grzegorzw_test.o
+ .debug_macro   0x00002890       0xb5 ./src/lpc17xx_adc.o
+ .debug_macro   0x00002945       0xef ./src/lpc17xx_adc.o
+ .debug_macro   0x00002a34      0x2fe ./src/lpc17xx_adc.o
+ .debug_macro   0x00002d32       0xb3 ./src/lpc17xx_adc.o
+ .debug_macro   0x00002de5       0x90 ./src/lpc17xx_clkpwr.o
+ .debug_macro   0x00002e75       0x1c ./src/lpc17xx_clkpwr.o
+ .debug_macro   0x00002e91      0x2c7 ./src/lpc17xx_clkpwr.o
+ .debug_macro   0x00003158      0x2f8 ./src/lpc17xx_clkpwr.o
+ .debug_macro   0x00003450       0x5a ./src/lpc17xx_libcfg_default.o
+ .debug_macro   0x000034aa       0x5d ./src/lpc17xx_libcfg_default.o
+ .debug_macro   0x00003507       0xad ./src/lpc17xx_libcfg_default.o
+ .debug_macro   0x000035b4       0x91 ./src/lpc17xx_nvic.o
+ .debug_macro   0x00003645       0x90 ./src/lpc17xx_pinsel.o
+ .debug_macro   0x000036d5       0xbb ./src/lpc17xx_uart.o
+ .debug_macro   0x00003790      0x334 ./src/lpc17xx_uart.o
+ .debug_macro   0x00003ac4      0x12d C:\nxp\workspace\CMSIS_CORE_LPC17xx\Debug\libCMSIS_CORE_LPC17xx.a(system_LPC17xx.o)
+ .debug_macro   0x00003bf1      0x85c C:\nxp\workspace\CMSIS_CORE_LPC17xx\Debug\libCMSIS_CORE_LPC17xx.a(system_LPC17xx.o)
+
+.debug_line     0x00000000     0x17fa
+ .debug_line    0x00000000       0xab ./src/cr_startup_lpc175x_6x.o
+ .debug_line    0x000000ab       0x78 ./src/crp.o
+ .debug_line    0x00000123      0x424 ./src/grzegorzw_test.o
+ .debug_line    0x00000547      0x38d ./src/lpc17xx_adc.o
+ .debug_line    0x000008d4      0x258 ./src/lpc17xx_clkpwr.o
+ .debug_line    0x00000b2c      0x138 ./src/lpc17xx_libcfg_default.o
+ .debug_line    0x00000c64      0x1f4 ./src/lpc17xx_nvic.o
+ .debug_line    0x00000e58      0x210 ./src/lpc17xx_pinsel.o
+ .debug_line    0x00001068      0x599 ./src/lpc17xx_uart.o
+ .debug_line    0x00001601      0x1f9 C:\nxp\workspace\CMSIS_CORE_LPC17xx\Debug\libCMSIS_CORE_LPC17xx.a(system_LPC17xx.o)
+
+.debug_str      0x00000000     0xfa7b
+ .debug_str     0x00000000     0x25a9 ./src/cr_startup_lpc175x_6x.o
+                               0x25bc (size before relaxing)
+ .debug_str     0x000025a9       0xe9 ./src/crp.o
+                               0x24c2 (size before relaxing)
+ .debug_str     0x00002692     0xb1ce ./src/grzegorzw_test.o
+                               0xd653 (size before relaxing)
+ .debug_str     0x0000d860     0x1619 ./src/lpc17xx_adc.o
+                               0xb94c (size before relaxing)
+ .debug_str     0x0000ee79       0xaa ./src/lpc17xx_clkpwr.o
+                               0xaa8c (size before relaxing)
+ .debug_str     0x0000ef23       0x25 ./src/lpc17xx_libcfg_default.o
+                               0x3e15 (size before relaxing)
+ .debug_str     0x0000ef48       0x5f ./src/lpc17xx_nvic.o
+                               0x970f (size before relaxing)
+ .debug_str     0x0000efa7       0xf7 ./src/lpc17xx_pinsel.o
+                               0x9d10 (size before relaxing)
+ .debug_str     0x0000f09e      0x61d ./src/lpc17xx_uart.o
+                               0xcfbd (size before relaxing)
+ .debug_str     0x0000f6bb      0x3c0 C:\nxp\workspace\CMSIS_CORE_LPC17xx\Debug\libCMSIS_CORE_LPC17xx.a(system_LPC17xx.o)
+                               0x9883 (size before relaxing)
+
+.comment        0x00000000       0xe0
+ .comment       0x00000000       0x70 ./src/cr_startup_lpc175x_6x.o
+                                 0x71 (size before relaxing)
+ .comment       0x00000000       0x71 ./src/crp.o
+ .comment       0x00000000       0x71 ./src/grzegorzw_test.o
+ .comment       0x00000000       0x71 ./src/lpc17xx_adc.o
+ .comment       0x00000000       0x71 ./src/lpc17xx_clkpwr.o
+ .comment       0x00000000       0x71 ./src/lpc17xx_libcfg_default.o
+ .comment       0x00000000       0x71 ./src/lpc17xx_nvic.o
+ .comment       0x00000000       0x71 ./src/lpc17xx_pinsel.o
+ .comment       0x00000000       0x71 ./src/lpc17xx_uart.o
+ .comment       0x00000000       0x71 C:\nxp\workspace\CMSIS_CORE_LPC17xx\Debug\libCMSIS_CORE_LPC17xx.a(system_LPC17xx.o)
+ .comment       0x00000070       0x70 c:/nxp/lpcxpresso_7.3.0_186/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(__weak__main.o)
+                                 0x71 (size before relaxing)
+
+.ARM.attributes
+                0x00000000       0x31
+ .ARM.attributes
+                0x00000000       0x33 ./src/cr_startup_lpc175x_6x.o
+ .ARM.attributes
+                0x00000033       0x33 ./src/crp.o
+ .ARM.attributes
+                0x00000066       0x33 ./src/grzegorzw_test.o
+ .ARM.attributes
+                0x00000099       0x33 ./src/lpc17xx_adc.o
+ .ARM.attributes
+                0x000000cc       0x33 ./src/lpc17xx_clkpwr.o
+ .ARM.attributes
+                0x000000ff       0x33 ./src/lpc17xx_libcfg_default.o
+ .ARM.attributes
+                0x00000132       0x33 ./src/lpc17xx_nvic.o
+ .ARM.attributes
+                0x00000165       0x33 ./src/lpc17xx_pinsel.o
+ .ARM.attributes
+                0x00000198       0x33 ./src/lpc17xx_uart.o
+ .ARM.attributes
+                0x000001cb       0x33 C:\nxp\workspace\CMSIS_CORE_LPC17xx\Debug\libCMSIS_CORE_LPC17xx.a(system_LPC17xx.o)
+ .ARM.attributes
+                0x000001fe       0x33 c:/nxp/lpcxpresso_7.3.0_186/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(__weak__main.o)
+
+.debug_frame    0x00000000      0x778
+ .debug_frame   0x00000000       0xf4 ./src/cr_startup_lpc175x_6x.o
+ .debug_frame   0x000000f4      0x128 ./src/grzegorzw_test.o
+ .debug_frame   0x0000021c      0x188 ./src/lpc17xx_adc.o
+ .debug_frame   0x000003a4       0xa0 ./src/lpc17xx_clkpwr.o
+ .debug_frame   0x00000444       0x20 ./src/lpc17xx_libcfg_default.o
+ .debug_frame   0x00000464       0x40 ./src/lpc17xx_nvic.o
+ .debug_frame   0x000004a4       0x88 ./src/lpc17xx_pinsel.o
+ .debug_frame   0x0000052c      0x210 ./src/lpc17xx_uart.o
+ .debug_frame   0x0000073c       0x3c C:\nxp\workspace\CMSIS_CORE_LPC17xx\Debug\libCMSIS_CORE_LPC17xx.a(system_LPC17xx.o)
